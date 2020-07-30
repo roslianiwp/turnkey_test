@@ -1,4 +1,4 @@
-# Rosliani's Full Stack Developer Tech Assessment for TurnkeyID
+# Rosliani's Tech Assessment for TurnkeyID
 
 ## Available Scripts
 
